@@ -1,0 +1,20 @@
+{
+  "name": "taletelling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "author": "qiushi",
+  "license": "ISC",
+  "dependencies": {
+    "baidu-aip-sdk": "^2.2.0",
+    "koa": "^2.5.0",
+    "koa-views": "^6.1.4"
+  },
+  "devDependencies": {
+    "ejs": "^2.5.8"
+  }
+}
